@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Pranav-7262
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning data structures in c.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Hi, I’m @Pranav-7262.
+- This is my First Git Repository.
+- I’m interested in programming.
+- I’m currently learning data structures in java.
+- Author: Pranav Varpe.
+
 
 <!---
 Pranav-7262/Pranav-7262 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
