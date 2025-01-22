@@ -1,8 +1,9 @@
 - Hi, I’m @Pranav-7262.
   <br>
-- This is my First Git Repository.
+- This is my First Git Repository.<br>
 - I’m interested in programming.
 - I’m currently learning data structures in java.
+- Also I'm lerning about web development. 
 - Author: Pranav Varpe.
 
 
